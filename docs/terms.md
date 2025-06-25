@@ -1,1 +1,3 @@
-# Placeholder for Terms of Use
+# Terms of Use
+
+## Placeholder for content
